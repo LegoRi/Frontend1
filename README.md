@@ -2,7 +2,7 @@
 Prácticas de la semana 1 de Front End
 
 
-Practicas de Intro a Frontend
+
 Para las practicas de esta semana tendrán el siguiente caso y a raiz de eso sacar los puntos mencionados abajo.
 
 Caso: Abogabot Descripción:
